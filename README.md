@@ -1,5 +1,5 @@
 # job
-[https://nagireddy-seelam.github.io/job/](https://nagireddy-seelam.github.io/job-c/index.html)
+https://nagireddy-seelam.github.io/job-c/
 - Developed an API based Job Portal
 - Part-Time Job Employment and Services Portal
 - Technology : React ,HTML, CSS, JavaScript ,PHP, API
